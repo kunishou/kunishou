@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunishou</h1>
+<h1 align="left">Hi 👋, I'm Kunishou</h1>
 
 <h3 align="left">A passionate data analyst from Japan</h3>
 
